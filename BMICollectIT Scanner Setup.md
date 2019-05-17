@@ -7,14 +7,19 @@ Steps:
 
 2.  Open the incodexUtility App
 
-    ![](IncodexApp.png)
+
+    ![](https://github.com/Elilta23/BarcodeProj/blob/master/IncodexApp.PNG)
 
 3.  Depending on the action you want to perform click on the buttons either send
     to device or Get from the device
+    
 
 ![](https://github.com/Elilta23/BarcodeProj/blob/master/IncodeX%20Utility%20Menu.PNG)
 
 1.  If sending to the device the items sent will be stored in the This
-    PC\\PA730\\Internal storage\\Android\\data\\com.bmicollectit\\files
+   
+   PC\\PA730\\Internal storage\\Android\\data\\com.bmicollectit\\files
+   
+   
 
-    ![C:\\Users\\eghebrehiwot\\Desktop\\BarcodeDocumentation\\LooksOfWhereThetxtFilesAreInTheScanner.PNG](media/63295efb159d3896e080937b041f6559.png)
+    ![](https://github.com/Elilta23/BarcodeProj/blob/master/LooksOfWhereThetxtFilesAreInTheScanner.PNG)
