@@ -12,7 +12,7 @@ Steps:
 3.  Depending on the action you want to perform click on the buttons either send
     to device or Get from the device
 
-![](media/2392f8b12da89a9af3aa97e060cb68c5.png)
+![](https://github.com/Elilta23/BarcodeProj/blob/master/IncodeX%20Utility%20Menu.PNG)
 
 1.  If sending to the device the items sent will be stored in the This
     PC\\PA730\\Internal storage\\Android\\data\\com.bmicollectit\\files
