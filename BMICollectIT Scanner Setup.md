@@ -7,7 +7,7 @@ Steps:
 
 2.  Open the incodexUtility App
 
-    ![](media/da969655b24b8e8f6846c154c3487825.png)
+    ![](IncodexApp.png)
 
 3.  Depending on the action you want to perform click on the buttons either send
     to device or Get from the device
